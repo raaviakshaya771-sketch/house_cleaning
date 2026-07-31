@@ -1,0 +1,11 @@
+HouseID,Location,Area,Bedrooms,Bathrooms,Price
+1,Hyderabad,1200,2,2,4500000
+2,Vijayawada,1500,3,2,6200000
+3,Visakhapatnam,,3,2,5800000
+4,Guntur,1800,4,3,7500000
+5,Hyderabad,1200,2,2,4500000
+6,Tirupati,2000,4,3,
+7,Warangal,1600,3,2,6100000
+8,Kurnool,1400,3,,5200000
+9,Nellore,1700,3,2,6700000
+10,Hyderabad,2500,5,4,9800000
